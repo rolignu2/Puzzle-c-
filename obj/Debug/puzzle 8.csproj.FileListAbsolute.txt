@@ -1,0 +1,9 @@
+c:\users\rolandoantonio\documents\visual studio 2012\Projects\puzzle 8\puzzle 8\bin\Debug\puzzle 8.exe.config
+C:\Users\rolandoantonio\documents\visual studio 2012\Projects\puzzle 8\puzzle 8\bin\Debug\puzzle 8.exe
+C:\Users\rolandoantonio\documents\visual studio 2012\Projects\puzzle 8\puzzle 8\bin\Debug\puzzle 8.pdb
+C:\Users\rolandoantonio\documents\visual studio 2012\Projects\puzzle 8\puzzle 8\obj\Debug\puzzle 8.csprojResolveAssemblyReference.cache
+C:\Users\rolandoantonio\documents\visual studio 2012\Projects\puzzle 8\puzzle 8\obj\Debug\puzzle_8.Form1.resources
+C:\Users\rolandoantonio\documents\visual studio 2012\Projects\puzzle 8\puzzle 8\obj\Debug\puzzle_8.Properties.Resources.resources
+C:\Users\rolandoantonio\documents\visual studio 2012\Projects\puzzle 8\puzzle 8\obj\Debug\puzzle 8.csproj.GenerateResource.Cache
+C:\Users\rolandoantonio\documents\visual studio 2012\Projects\puzzle 8\puzzle 8\obj\Debug\puzzle 8.exe
+C:\Users\rolandoantonio\documents\visual studio 2012\Projects\puzzle 8\puzzle 8\obj\Debug\puzzle 8.pdb
